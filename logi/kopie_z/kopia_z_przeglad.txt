@@ -1,0 +1,238 @@
+Ten plik przechowuje kopie zapasowe logow modulu Przeglad Logow
+Data i czas wygenerowania tego pliku: 19-05-2012, 12:53:49
+Autor programu: Mikolaj Stankowiak
+
+
+
+
+
+
+<<<  Kopia zapasowa z dnia 19-05-2012 wykonana o godzinie 12:53:49  >>>
+
+
+Ten plik przechowuje logi modulu Przeglad Logow
+Data i czas wygenerowania tego pliku: 11-05-2012, 17:53:05
+Autor programu: Mikolaj Stankowiak
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 11-05-2012, 17:53:05
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+17:53:12 - Zamkniecie  Przegladu Logow
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 11-05-2012, 17:55:41
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+17:55:48 - Otwarcie logow modulu Przeglad logow
+17:55:52 - Otwarcie logow modulu Punkty i Ocena
+17:55:56 - Brak pliku logow modulu Srednia Ocen
+17:55:57 - Otwarcie logow modulu Koder/Dekoder
+17:56:05 - Otwarcie logow kopii zapasowej aplikacji
+           Pascal MS
+17:57:16 - Zamkniecie  Przegladu Logow
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 11-05-2012, 17:58:21
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+17:58:22 - Otwarcie logow aplikacji Pascal MS
+17:58:28 - Otwarcie logow kopii zapasowej aplikacji
+           Pascal MS
+17:58:49 - Zamkniecie  Przegladu Logow
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 11-05-2012, 17:59:22
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+17:59:35 - Otwarcie logow kopii zapasowej aplikacji
+           Pascal MS
+17:59:50 - Usuniecie logow kopii zapasowej aplikacji
+           Pascal MS
+17:59:54 - Brak pliku kopii zapasowej logow aplikacji
+           Pascal MS
+17:59:59 - Brak pliku kopii zapasowej logow aplikacji
+           Pascal MS
+18:00:02 - Zamkniecie  Przegladu Logow
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 11-05-2012, 18:00:22
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+18:00:26 - Otwarcie logow aplikacji Pascal MS
+18:00:32 - Brak pliku kopii zapasowej logow aplikacji
+           Pascal MS
+18:00:40 - Brak pliku kopii zapasowej logow aplikacji
+           Pascal MS
+18:00:44 - Zamkniecie  Przegladu Logow
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 11-05-2012, 18:01:38
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+18:01:39 - Otwarcie logow aplikacji Pascal MS
+18:01:44 - Brak pliku kopii zapasowej logow aplikacji
+           Pascal MS
+18:01:54 - Brak pliku kopii zapasowej logow aplikacji
+           Pascal MS
+18:02:09 - Zamkniecie  Przegladu Logow
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 11-05-2012, 18:03:02
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+18:03:03 - Otwarcie logow aplikacji Pascal MS
+18:03:25 - Zamkniecie  Przegladu Logow
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 18-05-2012, 21:51:12
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+21:51:20 - Otwarcie logow kopii zapasowej modulu
+           Kalkulator
+21:51:27 - Brak pliku kopii zapasowej logow aplikacji
+           Pascal MS
+21:51:33 - Otwarcie logow aplikacji Pascal MS
+21:51:38 - Tworzenie kopii zapasowej logow aplikacji
+           Pascal MS i usuwanie pliku
+21:51:44 - Otwarcie logow kopii zapasowej aplikacji
+           Pascal MS
+21:51:50 - Brak pliku logow aplikacji Pascal MS
+21:51:52 - Brak pliku logow aplikacji Pascal MS
+21:52:15 - Zamkniecie  Przegladu Logow
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 18-05-2012, 21:52:44
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+21:52:45 - Otwarcie logow aplikacji Pascal MS
+21:52:58 - Usuniecie logow kopii zapasowej aplikacji
+           Pascal MS
+21:53:02 - Tworzenie kopii zapasowej logow aplikacji
+           Pascal MS i usuwanie pliku
+21:53:04 - Brak pliku logow aplikacji Pascal MS
+21:53:06 - Zamkniecie  Przegladu Logow
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 18-05-2012, 22:00:39
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+22:00:42 - Otwarcie logow aplikacji Pascal MS
+22:00:50 - Otwarcie logow kopii zapasowej aplikacji
+           Pascal MS
+22:00:54 - Tworzenie kopii zapasowej logow aplikacji
+           Pascal MS i usuwanie pliku
+22:00:57 - Zamkniecie  Przegladu Logow
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 18-05-2012, 22:01:06
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+22:01:07 - Otwarcie logow aplikacji Pascal MS
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 18-05-2012, 22:04:54
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+22:04:54 - Tworzenie kopii zapasowej logow aplikacji
+           Pascal MS i usuwanie pliku
+22:04:56 - Zamkniecie  Przegladu Logow
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 18-05-2012, 22:05:05
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+22:05:06 - Otwarcie logow aplikacji Pascal MS
+22:05:27 - Zamkniecie  Przegladu Logow
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 19-05-2012, 12:52:08
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+12:52:09 - Otwarcie logow aplikacji Pascal MS
+12:52:18 - Otwarcie logow modulu Kalkulator
+12:52:28 - Otwarcie logow modulu Przelicznik Jednostek
+12:52:36 - Otwarcie logow modulu Operacje na Bitach
+12:52:45 - Otwarcie logow modulu Koder/Dekoder
+12:52:56 - Otwarcie logow modulu Srednia Ocen
+12:53:00 - Otwarcie logow modulu Punkty i Ocena
+12:53:28 - Otwarcie logow modulu Przeglad logow
+12:53:42 - Brak pliku kopii zapasowej logow modulu
+           Przeglad Logow
+
+
+>>>  Zakonczenie materialu kopii z dnia 19-05-2012, godziny 12:53:49  <<<
+
+
+
+
+
+
+<<<  Kopia zapasowa z dnia 19-05-2012 wykonana o godzinie 13:01:39  >>>
+
+
+Ten plik przechowuje logi modulu Przeglad Logow
+Data i czas wygenerowania tego pliku: 19-05-2012, 12:53:49
+Autor programu: Mikolaj Stankowiak
+
+12:53:49 - Oczyszczenie wczesniejszych wpisow
+12:53:54 - Brak pliku kopii zapasowej logow modulu
+           Przeglad Logow
+12:54:04 - Otwarcie logow modulu Przeglad logow
+12:54:27 - Zamkniecie  Przegladu Logow
+
+
+
+Uruchomienie podprogramu Pzeglad Logow
+Aktualna data i czas 19-05-2012, 13:01:22
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+13:01:26 - Tworzenie kopii zapasowej logow aplikacji
+           Pascal MS i usuwanie pliku
+13:01:27 - Otwarcie logow aplikacji Pascal MS
+
+
+>>>  Zakonczenie materialu kopii z dnia 19-05-2012, godziny 13:01:39  <<<

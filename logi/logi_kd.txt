@@ -1,0 +1,198 @@
+Ten plik przechowuje logi modulu Koder / Dekoder
+Data i czas wygenerowania tego pliku: 19-05-2012, 14:13:16
+Autor programu: Mikolaj Stankowiak
+
+
+
+Uruchomienie modulu Koder_Dekoder
+Aktualna data i czas: 19-05-2012, 14:13:16
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+14:13:27 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Koder_Dekoder
+Aktualna data i czas: 19-05-2012, 14:16:31
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+14:16:33 - Wpisano slowo oryginalne: 1
+           Tlumaczenie na kodowanie(1): 4
+           Tlumaczenie na kodowanie(2): 7
+
+14:16:36 - Wpisano slowo oryginalne: 7
+           Tlumaczenie na kodowanie(1): 3
+           Tlumaczenie na kodowanie(2): 4
+
+14:16:41 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Koder_Dekoder
+Aktualna data i czas: 20-05-2012, 15:57:17
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+15:57:23 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Koder_Dekoder
+Aktualna data i czas: 25-05-2012, 13:04:49
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+13:04:52 - Wpisano slowo oryginalne: zs2nt
+           Tlumaczenie na kodowanie(1): ux8hs
+           Tlumaczenie na kodowanie(2): cq3gx
+
+13:04:54 - Wpisano slowo oryginalne: 12
+           Tlumaczenie na kodowanie(1): 48
+           Tlumaczenie na kodowanie(2): 73
+
+13:05:01 - Wpisano slowo oryginalne: zs2nt
+           Tlumaczenie na kodowanie(1): ux8hs
+           Tlumaczenie na kodowanie(2): cq3gx
+
+13:05:03 - Wpisano slowo kodowania(1): zs2n
+           Tlumaczenie na oryginal: lt9x
+           Tlumaczenie na kodowanie(2): dx5©
+
+13:05:10 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Koder_Dekoder
+Aktualna data i czas: 25-05-2012, 13:08:44
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+13:08:47 - Wpisano slowo oryginalne: zs2nt
+           Tlumaczenie na kodowanie(1): ux8hs
+           Tlumaczenie na kodowanie(2): cq3gx
+
+13:08:49 - Wpisano slowo oryginalne: zs
+           Tlumaczenie na kodowanie(1): ux
+           Tlumaczenie na kodowanie(2): cq
+
+13:08:53 - Wpisano slowo oryginalne: zs2nt
+           Tlumaczenie na kodowanie(1): ux8hs
+           Tlumaczenie na kodowanie(2): cq3gx
+
+13:09:33 - Wpisano slowo oryginalne: zs
+           Tlumaczenie na kodowanie(1): ux
+           Tlumaczenie na kodowanie(2): cq
+
+13:09:37 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Koder_Dekoder
+Aktualna data i czas: 25-05-2012, 13:10:27
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+13:10:30 - Wpisano slowo oryginalne: zs2nt
+           Tlumaczenie na kodowanie(1): ux8hs
+           Tlumaczenie na kodowanie(2): cq3gx
+
+13:10:43 - Wpisano slowo kodowania(1): 12
+           Tlumaczenie na oryginal: 39
+           Tlumaczenie na kodowanie(2): 05
+
+13:10:49 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Koder_Dekoder
+Aktualna data i czas: 25-05-2012, 13:13:31
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+13:13:41 - Wpisano slowo oryginalne: zs2nt
+           Tlumaczenie na kodowanie(1): ux8hs
+           Tlumaczenie na kodowanie(2): cq3gx
+
+13:13:45 - Wpisano slowo oryginalne: 1
+           Tlumaczenie na kodowanie(1): 4
+           Tlumaczenie na kodowanie(2): 7
+
+13:14:11 - Wpisano slowo oryginalne: 1
+           Tlumaczenie na kodowanie(1): 4
+           Tlumaczenie na kodowanie(2): 7
+
+13:14:20 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Koder_Dekoder
+Aktualna data i czas: 25-05-2012, 13:15:11
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+13:15:13 - Wpisano slowo oryginalne: 0
+           Tlumaczenie na kodowanie(1): 5
+           Tlumaczenie na kodowanie(2): 8
+
+13:15:29 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Koder_Dekoder
+Aktualna data i czas: 25-05-2012, 13:16:25
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+13:16:29 - Wpisano slowo oryginalne: zs21nt
+           Tlumaczenie na kodowanie(1): ux84hs
+           Tlumaczenie na kodowanie(2): cq37gx
+
+13:16:40 - Wpisano slowo oryginalne: zs
+           Tlumaczenie na kodowanie(1): ux
+           Tlumaczenie na kodowanie(2): cq
+
+13:16:49 - Uruchomienie ponowne modulu
+
+
+
+
+Uruchomienie modulu Koder_Dekoder
+Aktualna data i czas: 25-05-2012, 13:16:49
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+13:16:50 - Wpisano slowo oryginalne: zs2
+           Tlumaczenie na kodowanie(1): ux8
+           Tlumaczenie na kodowanie(2): cq3
+
+13:16:56 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Koder_Dekoder
+Aktualna data i czas: 25-05-2012, 15:05:32
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+15:05:35 - Wpisano slowo oryginalne: zs2nt
+           Tlumaczenie na kodowanie(1): ux8hs
+           Tlumaczenie na kodowanie(2): cq3gx
+
+15:05:36 - Wpisano slowo oryginalne: zs
+           Tlumaczenie na kodowanie(1): ux
+           Tlumaczenie na kodowanie(2): cq
+
+15:05:41 - Zamkniecie modulu

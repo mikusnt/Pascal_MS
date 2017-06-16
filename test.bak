@@ -1,0 +1,15 @@
+program kalkulator;
+var
+        a,b:real;
+        odp:real;
+label
+        pocz;
+begin
+         pocz:
+        write('Podaj t: ');
+        readln(odp);
+        if (odp > 10) or (odp <= 12) then writeln('dziaˆa')
+        else writeln('nie diala');
+        goto pocz;
+        readln;
+end.

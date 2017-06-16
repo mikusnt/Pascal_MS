@@ -1,0 +1,43 @@
+Ten plik przechowuje logi modulu Punkty i Ocena
+Data i czas wygenerowania tego pliku: 25-05-2012, 13:23:13
+Autor programu: Mikolaj Stankowiak
+
+
+
+Uruchomienie modulu Punkty i Ocena
+Aktualna data i czas 25-05-2012, 13:23:13
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+13:23:30 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Punkty i Ocena
+Aktualna data i czas 25-05-2012, 13:24:40
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+13:24:55 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Punkty i Ocena
+Aktualna data i czas 25-05-2012, 13:25:56
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+13:26:05 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Punkty i Ocena
+Aktualna data i czas 26-05-2012, 22:44:42
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+22:44:49 - Zamkniecie modulu

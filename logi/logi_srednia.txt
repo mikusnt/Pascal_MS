@@ -1,0 +1,48 @@
+Ten plik przechowuje logi modulu Srednia Ocen
+Data i czas wygenerowania tego pliku: 20-05-2012, 15:58:43
+Autor programu: Mikolaj Stankowiak
+
+
+
+Uruchomienie modulu Srednia Ocen
+Aktualna data i czas 20-05-2012, 15:58:43
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+15:58:54 - Wprowadzono zmienne:
+           Ilosc ocen: 2
+           Domyslna waga oceny: 4
+           Dokladnosc sredniej: 4
+
+15:59:00 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Srednia Ocen
+Aktualna data i czas 25-05-2012, 13:19:39
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+13:19:43 - Wprowadzono zmienne:
+           Ilosc ocen: 2
+           Domyslna waga oceny: 2
+           Dokladnosc sredniej: 2
+
+13:19:49 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Srednia Ocen
+Aktualna data i czas 26-05-2012, 22:44:55
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+22:44:59 - Wprowadzono zmienne:
+           Ilosc ocen: 6
+           Domyslna waga oceny: 1
+           Dokladnosc sredniej: 2
+
+22:54:01 - Zamkniecie modulu

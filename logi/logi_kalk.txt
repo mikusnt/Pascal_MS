@@ -1,0 +1,219 @@
+Ten plik przechowuje logi modulu Kalkulator
+Data i czas wygenerowania tego pliku: 19-05-2012, 14:09:27
+Autor programu: Mikolaj Stankowiak
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 19-05-2012, 14:09:27
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+14:09:29 - Obliczenie dzialania:
+           1.0 + 1.0 = 2.0
+14:09:33 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 19-05-2012, 14:18:35
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+14:18:38 - Obliczenie dzialania:
+           1.0 + 1.0 = 2.0
+14:18:42 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 19-05-2012, 14:27:18
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+14:27:23 - Obliczenie dzialania:
+           1 + 1 = 2
+14:27:28 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 20-05-2012, 15:56:34
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+15:56:37 - Obliczenie dzialania:
+           1.0 + 1.0 = 2.0
+15:56:40 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 24-05-2012, 16:38:49
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+16:38:54 - Uruchomienie trybu rozszerzonego
+16:39:23 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 24-05-2012, 16:41:00
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+16:41:04 - Uruchomienie trybu rozszerzonego
+16:41:08 - Powrot do edycji tabeli
+16:41:15 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 24-05-2012, 20:06:22
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+20:06:24 - Uruchomienie trybu rozszerzonego
+20:06:34 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 25-05-2012, 13:04:23
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+13:04:29 - Uruchomienie trybu rozszerzonego
+13:04:38 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 25-05-2012, 13:18:37
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+13:18:40 - Uruchomienie trybu rozszerzonego
+
+13:18:44 - Uruchomienie ponowne modulu
+
+13:18:47 - Uruchomienie trybu rozszerzonego
+13:18:50 - Powrot do edycji tabeli
+13:18:52 - Powrot do edycji tabeli
+13:18:57 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 25-05-2012, 13:24:59
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+13:25:06 - Obliczenie dzialania:
+           1.0 + 1.0 = 2.0
+13:25:09 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 25-05-2012, 13:36:23
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+13:36:29 - Uruchomienie trybu rozszerzonego
+13:36:42 - Obliczenie dzialania:
+           2 ^ 2 = 4
+
+13:36:54 - Obliczenie dzialania:
+           2.1212 ^ 2.0000 = 4.4995
+
+13:36:57 - Obliczenie dzialania:
+           2.1212 ^ 2.0000 = 4.4995
+
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 25-05-2012, 13:37:18
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+13:37:19 - Uruchomienie trybu rozszerzonego
+13:37:29 - Obliczenie dzialania:
+           11 ^ 2 = 121
+
+13:37:31 - Obliczenie dzialania:
+           11 ^ 3 = 1331
+
+13:37:32 - Obliczenie dzialania:
+           11 ^ 4 = 14641
+
+13:37:33 - Obliczenie dzialania:
+           11 ^ 5 = 161051
+
+13:37:34 - Obliczenie dzialania:
+           11 ^ 6 = 1771561
+
+13:37:35 - Obliczenie dzialania:
+           11 ^ 7 = 19487171
+
+13:37:35 - Obliczenie dzialania:
+           11 ^ 8 = 214358881
+
+13:37:36 - Obliczenie dzialania:
+           11 ^ 9 = 2357947691
+
+13:37:40 - Obliczenie dzialania:
+           11 ^ 10 = 25937424601
+
+13:37:42 - Obliczenie dzialania:
+           11 ^ 12 = 3138428376721
+
+13:37:44 - Obliczenie dzialania:
+           11 ^ 13 = 34522712143931
+
+13:37:45 - Obliczenie dzialania:
+           11 ^ 14 = 379749833583241
+
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 25-05-2012, 13:40:03
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+13:40:05 - Uruchomienie trybu rozszerzonego
+13:40:09 - Obliczenie dzialania:
+           11 ^ 11 = 285311670611
+
+13:40:10 - Obliczenie dzialania:
+           11 ^ 13 = 34522712143931
+
+13:40:12 - Obliczenie dzialania:
+           11 ^ 14 = 379749833583241
+
+13:40:13 - Obliczenie dzialania:
+           11 ^ 15 = 4177248169415651
+
+13:40:14 - Obliczenie dzialania:
+           11 ^ 16 = 45949729863572161
+
+13:40:15 - Obliczenie dzialania:
+           11 ^ 17 = 505447028499293770
+
+13:40:54 - Obliczenie dzialania:
+           11 * 144 = 1584
+
+13:44:53 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Kalkulator
+Aktualna data i czas: 09-08-2012, 23:07:44
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+23:07:48 - Uruchomienie trybu rozszerzonego
+23:07:59 - Zamkniecie modulu

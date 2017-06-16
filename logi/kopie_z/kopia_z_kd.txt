@@ -1,0 +1,4 @@
+Ten plik przechowuje kopie zapasowe logow aplikacji Koder / Dekoder
+Data i czas wygenerowania tego pliku: 19-03-2012, 21:04:17
+Autor programu: Mikolaj Stankowiak
+

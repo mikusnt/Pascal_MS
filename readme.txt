@@ -1,0 +1,1 @@
+Info w folderze Poradnik u¿ytkownika

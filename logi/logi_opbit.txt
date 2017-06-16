@@ -1,0 +1,65 @@
+Ten plik przechowuje logi modulu Operacji na Bitach
+Data i czas wygenerowania tego pliku: 19-05-2012, 14:09:37
+Autor programu: Mikolaj Stankowiak
+
+
+
+Uruchomienie modulu Operacje na bitach
+Aktualna data i czas: 19-05-2012, 14:09:37
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+14:09:39 - Suma symetryczna (5 XOR 6):
+                   a = 5      101
+                   b = 6      110
+           Wynik:  3          011
+
+14:09:46 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Operacje na bitach
+Aktualna data i czas: 19-05-2012, 14:16:47
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+14:16:50 - Alternatywa (6 OR 7):
+           "lub"   a = 6      110
+                   b = 7      111
+           Wynik:  7          111
+
+14:16:55 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Operacje na bitach
+Aktualna data i czas: 19-05-2012, 14:27:34
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+
+
+Uruchomienie modulu Operacje na bitach
+Aktualna data i czas: 19-05-2012, 14:44:29
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+
+14:44:32 - bluescreen - brak miejsca w konsoli,
+           Zbyt duzo blednie wpisanych zmiennych
+           Zamkniecie modulu
+
+
+
+Uruchomienie modulu Operacje na bitach
+Aktualna data i czas: 20-05-2012, 15:57:03
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+15:57:05 - Przesuniecie w lewo o 1:
+           SHL     b = 1     <-------
+                   a = 1     01
+           Wynik:  2         10
+
+15:57:10 - Zamkniecie modulu

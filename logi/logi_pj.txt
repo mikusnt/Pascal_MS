@@ -1,0 +1,112 @@
+Ten plik przechowuje logi modulu Przelicznik Jednostek
+Data i czas wygenerowania tego pliku: 19-05-2012, 14:04:06
+Autor programu: Mikolaj Stankowiak
+
+
+
+Uruchomienie modulu Przelicznik Jednostek
+Aktualna data i czas: 19-05-2012, 14:04:06
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+14:04:10 - Zamkniecie modulu z powodu braku miejsca w konsoli
+
+
+
+Uruchomienie modulu Przelicznik Jednostek
+Aktualna data i czas: 19-05-2012, 14:06:27
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+14:06:31 - Zamkniecie modulu z powodu braku miejsca w konsoli
+
+
+
+Uruchomienie modulu Przelicznik Jednostek
+Aktualna data i czas: 19-05-2012, 14:08:40
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+14:08:46 - Wybranie przeliczenia w jednostkach powierzchni
+14:08:52 - Uruchomienie ponowne modulu
+
+14:08:56 - Zamkniecie modulu z powodu braku miejsca w konsoli
+
+
+
+Uruchomienie modulu Przelicznik Jednostek
+Aktualna data i czas: 20-05-2012, 15:56:46
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+15:56:53 - Wybranie przeliczenia w jednostkach dlugosci
+15:56:57 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Przelicznik Jednostek
+Aktualna data i czas: 20-05-2012, 16:00:36
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+16:00:38 - Wybranie przeliczenia w jednostkach dlugosci
+16:00:45 - Uruchomienie ponowne modulu
+
+16:00:50 - Wybranie przeliczenia w jednostkach temperatury
+16:00:58 - Wprowadzenie danych:
+           Celcjusze [C]:     -271.150000
+           Fehrenheity [F]:   -456.070000
+           Kelwiny [K]:       2.000000
+
+16:01:06 - Powrot do edycji tabeli
+16:01:10 - Wprowadzenie danych:
+           Celcjusze [C]:     37.777778
+           Fehrenheity [F]:   100.000000
+           Kelwiny [K]:       310.927778
+
+16:01:15 - Wprowadzenie danych:
+           Celcjusze [C]:     537.777778
+           Fehrenheity [F]:   1000.000000
+           Kelwiny [K]:       810.927778
+
+16:01:22 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Przelicznik Jednostek
+Aktualna data i czas: 25-05-2012, 13:19:22
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+13:19:26 - Wybranie przeliczenia w jednostkach masy
+13:19:34 - Zamkniecie modulu
+
+
+
+Uruchomienie modulu Przelicznik Jednostek
+Aktualna data i czas: 03-09-2013, 17:37:40
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+17:37:48 - Wybranie przeliczenia w jednostkach pr©dko˜ci
+17:37:55 - Wprowadzenie danych:
+           kilometr na h [km/h]:   3.60000
+           mila na h [mph]:        2.23698
+           kilometr na s [km/s]:   1.94384
+           mila na s [mps]:        3.28084
+           metr na s [m/s]:        1.00000
+           stopa na s [fps]:       0.00100
+           wezel [kn]:             0.00062
+           predkosc swiatla [c]:   0.00000
+
+17:39:00 - Wprowadzenie danych:
+           kilometr na h [km/h]:   1079252848.71366
+           mila na h [mph]:        670629964.12556
+           kilometr na s [km/s]:   582749918.40888
+           mila na s [mps]:        983571056.43045
+           metr na s [m/s]:        299792458.00000
+           stopa na s [fps]:       299792.45800
+           wezel [kn]:             186282.39705
+           predkosc swiatla [c]:   1.00000
+
+17:41:40 - Zamkniecie modulu

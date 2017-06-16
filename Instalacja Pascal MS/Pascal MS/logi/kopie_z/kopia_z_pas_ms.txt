@@ -1,0 +1,9 @@
+Ten plik przechowuje kopie zapasowe logow aplikacji Pascal MS
+Data i czas wygenerowania tego pliku: 20-05-2012, 00:00:00
+Autor programu: Mikolaj Stankowiak
+
+
+
+
+
+

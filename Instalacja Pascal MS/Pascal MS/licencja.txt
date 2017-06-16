@@ -1,0 +1,40 @@
+Pascal MS
+twórca programu: Miko³aj Stankowiak
+data publikacji: 20-05-2012
+
+PRZEZ U¯YCIE OPROGRAMOWANIA AKCEPTUJ¥ PAÑSTWO NINIEJSZE POSTANOWIENIA. JEŒLI NIE AKCEPTUJ¥ PAÑSTWO NINIEJSZYCH POSTANOWIEÑ, NIE MOG¥ PAÑSTWO U¯YWAÆ OPROGRAMOWANIA.
+
+
+Jeœli zgadzaj¹ siê Pañstwo z niniejszymi postanowieniami licencyjnymi, maj¹ Pañstwo nastêpuj¹ce prawa (zawarte w licencji FREEWARE):
+
+1. PRAWA DO INSTALACJI I U¯YWANIA. 
+
+a. Postanowienia ogólne. 
+Mog¹ Pañstwo dokonaæ instalacji i korzystaæ z dowolnej liczby kopii oprogramowania na swoich urz¹dzeniach. 
+    
+b. Rozpowszechnianie. 
+Mog¹ Pañstwo kopiowaæ i rozpowszechniaæ oprogramowanie, o ile ka¿da kopia jest kompletna i niezmodyfikowana (dotyczy to równie¿ prezentacji niniejszej umowy u¿ytkownikowi do akceptacji).
+    
+Nie mog¹ Pañstwo:
+ • zmieniaæ w oprogramowaniu ¿adnych informacji o prawach autorskich, znakach towarowych ani patentach; 
+ 
+ • korzystaæ z nazw, logo ani znaków towarowych nale¿¹cych do Miko³aja Stankowiak, 
+
+ • rozpowszechniaæ oprogramowania razem ze z³oœliwymi, zwodniczymi ani nielegalnymi programami, 
+
+ • modyfikowaæ, póŸniej rozpowszechniaæ oprogramowania.
+
+ • obchodziæ ograniczeñ technicznych w oprogramowaniu;
+
+ • odtwarzaæ, dekompilowaæ ani dezasemblowaæ oprogramowania, 
+
+ • sprzedawaæ  ani wypo¿yczaæ oprogramowania.
+
+
+2. POMOC TECHNICZNA. 
+Oprogramowanie jest  stworzone dla Pañstwa, mo¿liwe jest zg³aszanie ewentualnych b³êdów na e-mail msstudiont@go2.pl. Proœby zostan¹ rozpatrzone, lecz nie ma gwarancji na ich rozwi¹zanie.
+
+
+3. BRAK ODPOWIEDZIALNOŒCI ZA SZKODY. 
+Miko³aj Stankowiak nie bierze odpowiedzialnoœci za szkody wywo³ane dzia³alnoœci¹ programu (równie¿ logów). Zasadê t¹ stosuje siê nawet wtedy, gdy autor wiedzia³ lub powinien wiedzieæ o mo¿liwoœci powstania takich szkód. 
+

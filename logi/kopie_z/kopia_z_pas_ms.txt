@@ -1,0 +1,397 @@
+Ten plik przechowuje kopie zapasowe logow modulu Kalkulator
+Data i czas wygenerowania tego pliku: 18-05-2012, 21:53:02
+Autor programu: Mikolaj Stankowiak
+
+
+
+
+
+
+<<<  Kopia zapasowa z dnia 18-05-2012 wykonana o godzinie 21:53:02  >>>
+
+
+Ten plik przechowuje logi aplikacji Pascal MS
+Data i czas wygenerowania tego pliku: 18-05-2012, 21:52:22
+Autor programu: Mikolaj Stankowiak
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 18-05-2012, 21:52:22
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+21:52:34 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+21:52:37 - Uruchomienie glownego modulu
+21:52:44 - Uruchomienie podprogramu Przeglad Logow
+
+
+>>>  Zakonczenie materialu kopii z dnia 18-05-2012, godziny 21:53:02  <<<
+
+
+
+
+
+
+<<<  Kopia zapasowa z dnia 18-05-2012 wykonana o godzinie 22:00:54  >>>
+
+
+Ten plik przechowuje logi aplikacji Pascal MS
+Data i czas wygenerowania tego pliku: 18-05-2012, 22:00:27
+Autor programu: Mikolaj Stankowiak
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 18-05-2012, 22:00:27
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+22:00:29 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+22:00:33 - Uruchomienie glownego modulu
+22:00:39 - Uruchomienie podprogramu Przeglad Logow
+
+
+>>>  Zakonczenie materialu kopii z dnia 18-05-2012, godziny 22:00:54  <<<
+
+
+
+
+
+
+<<<  Kopia zapasowa z dnia 18-05-2012 wykonana o godzinie 22:04:54  >>>
+
+
+Ten plik przechowuje logi aplikacji Pascal MS
+Data i czas wygenerowania tego pliku: 18-05-2012, 22:00:59
+Autor programu: Mikolaj Stankowiak
+
+
+
+Uruchomienie aplikacji Pascal MS (po module Przeglad Logow)
+Aktualna data i czas 18-05-2012, 22:00:59
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+22:00:59 - Zamkniece podprogramu Przeglad Logow
+22:01:06 - Uruchomienie podprogramu Przeglad Logow
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 18-05-2012, 22:04:41
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+22:04:44 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+22:04:48 - Uruchomienie glownego modulu
+22:04:53 - Uruchomienie podprogramu Przeglad Logow
+
+
+>>>  Zakonczenie materialu kopii z dnia 18-05-2012, godziny 22:04:54  <<<
+
+
+
+
+
+
+<<<  Kopia zapasowa z dnia 19-05-2012 wykonana o godzinie 13:01:26  >>>
+
+
+Ten plik przechowuje logi aplikacji Pascal MS
+Data i czas wygenerowania tego pliku: 18-05-2012, 22:04:58
+Autor programu: Mikolaj Stankowiak
+
+
+
+Nowy wpis logow po usunieciu go w module Przeglad Logow
+Aktualna data i czas 18-05-2012, 22:04:58
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+22:04:58 - Zamkniece podprogramu Przeglad Logow
+22:05:04 - Uruchomienie podprogramu Przeglad Logow
+22:05:29 - Zamkniece podprogramu Przeglad Logow
+22:05:31 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 11:27:28
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+11:27:31 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+11:27:35 - Uruchomienie glownego modulu
+11:27:44 - Uruchomienie procedury Wizytowka
+11:27:47 - Uruchomienie procedury Informacje o Autorze
+11:28:27 - Uruchomienie podprogramu Kalkulator
+11:29:04 - Zamkniece podprogramu Kalkulator
+11:29:34 - Uruchomienie podprogramu Przelicznik Jednostek
+11:36:00 - Zamkniece podprogramu Przelicznik Jednostek
+11:36:01 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 11:41:18
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+11:41:20 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+11:41:24 - Uruchomienie glownego modulu
+11:41:30 - Uruchomienie podprogramu Przelicznik Jednostek
+11:42:13 - Zamkniece podprogramu Przelicznik Jednostek
+11:42:14 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 11:43:01
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+11:43:03 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+11:43:07 - Uruchomienie glownego modulu
+11:43:13 - Uruchomienie podprogramu Przelicznik Jednostek
+11:44:25 - Zamkniece podprogramu Przelicznik Jednostek
+11:44:26 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 11:45:33
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+11:45:34 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+11:45:38 - Uruchomienie glownego modulu
+11:45:45 - Uruchomienie podprogramu Przelicznik Jednostek
+11:46:34 - Zamkniece podprogramu Przelicznik Jednostek
+11:46:35 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 11:47:10
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+11:47:12 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+11:47:16 - Uruchomienie glownego modulu
+11:47:20 - Uruchomienie podprogramu Przelicznik Jednostek
+11:53:14 - Zamkniece podprogramu Przelicznik Jednostek
+11:53:15 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 11:54:28
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+11:54:31 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+11:54:35 - Uruchomienie glownego modulu
+11:54:40 - Uruchomienie podprogramu Przelicznik Jednostek
+11:54:59 - Zamkniece podprogramu Przelicznik Jednostek
+11:55:00 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 11:55:59
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+11:56:04 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+11:56:07 - Uruchomienie glownego modulu
+11:56:12 - Uruchomienie podprogramu Przelicznik Jednostek
+11:56:39 - Zamkniece podprogramu Przelicznik Jednostek
+11:56:41 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 12:02:19
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+12:02:21 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+12:02:24 - Uruchomienie glownego modulu
+12:02:29 - Uruchomienie podprogramu Przelicznik Jednostek
+12:03:00 - Zamkniece podprogramu Przelicznik Jednostek
+12:03:01 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 12:04:14
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+12:04:17 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+12:04:20 - Uruchomienie glownego modulu
+12:04:24 - Uruchomienie podprogramu Przelicznik Jednostek
+12:04:39 - Zamkniece podprogramu Przelicznik Jednostek
+12:04:41 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 12:06:47
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+12:06:49 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+12:06:52 - Uruchomienie glownego modulu
+12:06:57 - Uruchomienie podprogramu Przelicznik Jednostek
+12:07:09 - Zamkniece podprogramu Przelicznik Jednostek
+12:07:10 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 12:08:05
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+12:08:07 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+12:08:10 - Uruchomienie glownego modulu
+12:08:16 - Uruchomienie podprogramu Przelicznik Jednostek
+12:08:40 - Zamkniece podprogramu Przelicznik Jednostek
+12:08:42 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 12:09:10
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+12:09:12 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+12:09:16 - Uruchomienie glownego modulu
+12:09:21 - Uruchomienie podprogramu Przelicznik Jednostek
+12:09:37 - Zamkniece podprogramu Przelicznik Jednostek
+12:09:38 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 12:10:49
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+12:10:51 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+12:10:54 - Uruchomienie glownego modulu
+12:11:02 - Uruchomienie podprogramu Przelicznik Jednostek
+12:11:18 - Zamkniece podprogramu Przelicznik Jednostek
+12:11:19 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 12:12:30
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+12:12:32 - Wpisano niepoprawne haslo: zs23nt
+12:12:35 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 1
+12:12:39 - Uruchomienie glownego modulu
+12:12:44 - Uruchomienie podprogramu Przelicznik Jednostek
+12:13:07 - Zamkniece podprogramu Przelicznik Jednostek
+12:13:08 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 12:14:04
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+12:14:06 - Wpisano niepoprawne haslo: zs2nbt
+12:14:09 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 1
+12:14:13 - Uruchomienie glownego modulu
+12:14:18 - Uruchomienie podprogramu Przelicznik Jednostek
+12:14:35 - Zamkniece podprogramu Przelicznik Jednostek
+12:14:37 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 12:14:57
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+12:14:59 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+12:15:02 - Uruchomienie glownego modulu
+12:15:08 - Uruchomienie podprogramu Przelicznik Jednostek
+12:18:11 - Zamkniece podprogramu Przelicznik Jednostek
+12:18:12 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 12:44:06
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+12:44:08 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+12:44:12 - Uruchomienie glownego modulu
+12:44:23 - Uruchomienie podprogramu Operacje na Bitach
+12:46:12 - Zamkniece podprogramu Operacje na Bitach
+12:46:18 - Uruchomienie podprogramu Koder/Dekoder
+12:46:57 - Zamkniece podprogramu Koder/Dekoder
+12:47:02 - Uruchomienie podprogramu Srednia Ocen
+12:48:19 - Zamkniece podprogramu Srednia Ocen
+12:48:25 - Uruchomienie podprogramu Punkty i Ocena
+12:50:10 - Zamkniece podprogramu Punkty i Ocena
+12:50:11 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 12:51:52
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+12:51:54 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+12:51:57 - Uruchomienie glownego modulu
+12:52:07 - Uruchomienie podprogramu Przeglad Logow
+12:54:29 - Zamkniece podprogramu Przeglad Logow
+12:54:31 - Zamkniecie glownego modulu
+
+
+
+Uruchomienie aplikacji Pascal MS
+Aktualna data i czas 19-05-2012, 13:01:10
+Brak mozliwosci wyswietlenia polskich znakow !
+Dane moga byc nieczytelne.
+
+13:01:13 - Wpisano poprawne haslo. 
+           Pozostale proby na wpisanie hasla: 2
+13:01:16 - Uruchomienie glownego modulu
+13:01:22 - Uruchomienie podprogramu Przeglad Logow
+
+
+>>>  Zakonczenie materialu kopii z dnia 19-05-2012, godziny 13:01:26  <<<
